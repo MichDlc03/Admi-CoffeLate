@@ -1,6 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-function Login () {
+function Login() {
     return (
         <>
         <div className="container m-0">
