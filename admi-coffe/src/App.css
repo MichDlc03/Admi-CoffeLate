@@ -2,7 +2,24 @@
   background:#E5E5E5;
 
 }
+.font {
+  font-size: 30px;
+  color:#8B5D33;
+  font-family: 'Amaranth';
+}
+.button-colors{
+  background-color: #8B5D33; 
+  color: #fff; 
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px; 
+  cursor: pointer;
+}
 
+.font-form {
+  font-family: 'Amaranth';
+
+}
 .color-card {
   border-top-right-radius: 10px;
   border-bottom-right-radius: 10px; 
