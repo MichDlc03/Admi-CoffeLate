@@ -1,13 +1,13 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import React from "react"
-import SearchBar from './componentes/component-searchbar'
+import Login from './componentes/componente-login.jsx'
 function App() {
   return (
     <div className="App">
       <div>
         
-        <SearchBar/>    
+        <Login/>    
       </div>
     
     </div>
